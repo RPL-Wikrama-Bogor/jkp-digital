@@ -54,7 +54,7 @@ return [
 
     'url' => env('APP_URL', 'http://localhost'),
 
-    'asset_url' => env('ASSET_URL', null),
+    'asset_url' => env('ASSET_URL', 'http://116.197.131.203:308/jkp-digital/public'),
 
     /*
     |--------------------------------------------------------------------------
